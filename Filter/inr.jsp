@@ -37,7 +37,7 @@
        <b>OnePlus 8T : <i style="color: blue;">&#x20b9; <%=inr8t%></i></b> <br><br>
        <b>iPhone 12 : <i style="color: blue;">&#x20b9; <%=inrIph12%></i></b> <br><br>
        
-        <form action="index">
+        <form action="index.jsp">
             <input type="submit" value="Show Prices in USD">
         </form>
     
